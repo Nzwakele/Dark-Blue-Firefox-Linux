@@ -1,7 +1,7 @@
 # Dark-Blue-Firefox-Linux
 Dark Blue Build For Firefox On Linux
 
-# My Firefox Browser Theme
+# Firefox Browser Theme By Sbusiso Edwin Dube ©
 
 Welcome to my custom Firefox browser theme! This theme is designed to give your browsing experience a sleek and modern look while maintaining the functionality and ease of use you expect from Firefox.
 
